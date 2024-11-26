@@ -34,6 +34,8 @@ DEFAULT_ALIGN_MODELS_HF = {
     "nl": "jonatasgrosman/wav2vec2-large-xlsr-53-dutch",
     "uk": "Yehor/wav2vec2-xls-r-300m-uk-with-small-lm",
     "pt": "jonatasgrosman/wav2vec2-large-xlsr-53-portuguese",
+    "jw": "cahya/wav2vec2-large-xlsr-javanese",
+    "id": "cahya/wav2vec2-large-xlsr-javanese"
 }
 
 
